@@ -1,0 +1,19 @@
+# Backend
+SmartLearn_Backend/node_modules/
+
+# Frontend
+smartlearn-hub/node_modules/
+
+# Env files
+*.env
+
+# Build outputs
+SmartLearn_Backend/dist/
+smartlearn-hub/.next/
+
+SmartLearn_Backend/src/config/serviceAccountKey.json
+
+.env
+.env.*
+npm-debug.log*
+yarn-error.log
